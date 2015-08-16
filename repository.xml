@@ -9,6 +9,6 @@
     <description><![CDATA[Intégration du système Gravatar - www.gravatar.com]]></description>
     <name>hamGravatar</name>
     <file>https://github.com/Hamtar0/hamGravatar/archive/master.zip</file>
-    <icon>https://raw.githubusercontent.com/Hamtar0/hamGravatar/master/icon.png</icon>
+    <icon>https://s3.amazonaws.com/f.cl.ly/items/3T3j0i0M3U1P0n071g0Q/icon.png</icon>
   </plugin>
 </document>
